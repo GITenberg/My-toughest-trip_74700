@@ -1,0 +1,25 @@
+_repo: My-toughest-trip_74700
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reading, Robert William
+    gutenberg_agent_id: '57607'
+    url: http://www.gutenberg.org/2009/agents/57607
+description: ''
+gutenberg_issued: '2024-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74700'
+language: en
+pgterms:marc905: 20241020080954reading
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aChicago, IL :$bThe Consolidated Magazines Corporation, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: My toughest trip
+url: http://www.gutenberg.org/ebooks/74700
