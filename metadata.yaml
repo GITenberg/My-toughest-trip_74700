@@ -1,11 +1,16 @@
 _repo: My-toughest-trip_74700
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74700-h/images/cover.jpg
 creator:
   author:
     agent_name: Reading, Robert William
     gutenberg_agent_id: '57607'
     url: http://www.gutenberg.org/2009/agents/57607
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74700#My-toughest-trip
 gutenberg_issued: '2024-11-07'
 gutenberg_type: Text
 identifiers:
